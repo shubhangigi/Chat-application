@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mad Project</string>
+    <string name="login">Login</string>
+    <string name="create_new">Create New</string>
+    <string name="account">Account</string>
+    <string name="sign_in_to_continue">Sign_in_to_continue</string>
+</resources>
